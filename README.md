@@ -52,7 +52,7 @@ Calculates a regional demand index combining real-time environmental catalysts a
 ### 3. Pricing Dynamics & Margin Signals
 Aligns Google Ads bidding with profitability rather than top-line gross revenue:
 * **Margin-Weighted Adjustments:** Applies value multipliers to high-margin SKU clusters or services (e.g., premium accessories, extended warranties) to train Smart Bidding algorithms to hunt for high-profit customers.
-* **Competitive Price Indexing:** When your pricing is at a competitive advantage vs. market averages, conversion probability rises—the engine boosts multipliers to capture the elevated conversion rate.
+* **Competitive Price Indexing:** When pricing is at a competitive advantage vs. market averages, conversion probability rises—the engine boosts multipliers to capture the elevated conversion rate.
 
 ### 4. Closed-Loop ROAS Feedback
 Monitors trailing 7-day ROAS per geographic segment and automatically fine-tunes baseline multipliers to keep actual acquisition performance aligned with profitability targets.
