@@ -4,7 +4,7 @@ Automated Google Ads Value Rules engine syncing Smart Bidding multipliers in rea
 
 **Google Ads Value Rules Automation** is a real-time bidding orchestration engine designed to optimize Smart Bidding strategies (Target ROAS / Maximize Conversion Value). 
 
-Instead of relying solely on static conversion values, this system dynamically recalculates and pushes geographic **Conversion Value Rule Multipliers** via the Google Ads API. It links external demand signals directly to your advertising valuation in real time.
+Instead of relying solely on static conversion values, this system dynamically recalculates and pushes geographic **Conversion Value Rule Multipliers** via the Google Ads API. It links external demand signals directly to advertising valuation in real time.
 
 ### Core Automation Pillars:
 * ** Real-Time External Signals (Weather API):** Capitalizes on hyper-local weather triggers (e.g., snowstorms, freezing temperatures, heavy rain, or heatwaves) to automatically elevate conversion values for weather-sensitive auto parts and accessories.
@@ -15,7 +15,7 @@ Instead of relying solely on static conversion values, this system dynamically r
 
 An automated bidding orchestration engine designed to optimize Google Ads **Value-Based Bidding (tROAS / Maximize Conversion Value)** strategies in real time.
 
-Instead of treating every conversion equally or relying solely on static transaction values, this engine dynamically computes and pushes **Conversion Value Rule Multipliers** via the Google Ads API. It synchronizes external market conditions, operational constraints, and commercial margins directly with your bidding algorithms at auction time.--
+Instead of treating every conversion equally or relying solely on static transaction values, this engine dynamically computes and pushes **Conversion Value Rule Multipliers** via the Google Ads API. It synchronizes external market conditions, operational constraints, and commercial margins directly with bidding algorithms at auction time.--
 
 ## 📌 Architecture & Bidding Signals
 SIGNAL INGESTION                     │
